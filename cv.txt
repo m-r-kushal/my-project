@@ -1,2 +1,2 @@
 name: A.F.M. Mahbubur Rahman
-Email: m.r.kushal@gmail.com
+EMAIL: M.R.kushal@gmail.com
